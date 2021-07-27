@@ -216,7 +216,7 @@ The research has a strong instrumentation development component. For our experim
                         'foto' => 'https://www.rug.nl/research/zernike/people/schlatholter-1-web-new.jpg'
                     ]
                 ]
-            ],
+            ]
         ];
     }
 
